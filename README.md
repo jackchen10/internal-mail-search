@@ -1,4 +1,4 @@
-# 邮件搜索引擎 (V1.0)
+# 邮件搜索demo (V1.0)
 
 这是一个基于 **Spring Boot 3** 构建的、技术栈全面的企业级应用基础框架。项目以“内部邮件搜索”为业务场景，深度集成了 **MySQL**, **Elasticsearch**, **Redis**, **MyBatis-Plus**, **Druid** 等主流后端技术。
 
